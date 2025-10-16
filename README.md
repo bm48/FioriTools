@@ -25,8 +25,6 @@ E.g. From the above example, combining both the values gives you `http://localho
 There are no known issues relating to the resources included in this repository. Please refer to **How to obtain support** for any issue you encounter.
 
 ### How to Obtain Support
-- Option 1 : Users can log in and [submit their question](https://answers.sap.com/questions/ask.html) in the **SAP Community**. Please select the tag "SAP Fiori tools".
-- Option 2 : Use this option ONLY when you encounter any issues using the sample project with [SAP Developer tutorials](https://developers.sap.com/group.fiori-tools-lrop.html), please report it [here](https://github.com/SAPDocuments/Tutorials/issues/new).
 
 ### License
 Copyright (c) 2009-2020 SAP SE or an SAP affiliate company. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](/LICENSES/Apache-2.0.txt) file.
